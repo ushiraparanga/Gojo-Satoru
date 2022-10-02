@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              yoshitha dilmith by jupiter
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 jupiter 
 //
 //════════════════════════════//
 
@@ -27,8 +27,8 @@ global.botname = 'jupiter MD'
 global.footer = '©yoshitha'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'srilanka'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.sc = 'https://github.com/ushiraparanga/Gojo-Satoru'
+global.myweb = 'https://www.youtube.com/channel/UCQqumuCQvLMwnZsIKyQWjhw'
 global.packname = 'Gojo-Satoru'
 global.author = 'jupiter-MD'
 global.sessionName = 'session'
