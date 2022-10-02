@@ -1,5 +1,5 @@
 {
-  "name": "Gojo-Satoru",
+  "name": "yoshitha dilmith",
   "version": "2.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -65,10 +65,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nexusNw/Gojo-Satoru.git"
+    "url": "https://github.com/ushiraparanga/Gojo-Satoru"
   },
   "bugs": {
-    "url": "https://github.com/nexusNw/Gojo-Satoru/issues"
+    "url": "https://github.com/ushiraparanga/Gojo-Satoru"
   },
-  "homepage": "https://github.com/nexusNw/Gojo-Satoru#readme"
+  "homepage": "https://github.com/ushiraparanga/Gojo-Satoru"
 }
